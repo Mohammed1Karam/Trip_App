@@ -132,4 +132,4 @@ This project was developed to practice and apply:
 
 ---
 
-*TripSplit — Share the trip, split the cost, enjoy the journey.*
+*TripSplit — Share the trip, split the cost, enjoy the journey.*# Trip_App
