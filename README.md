@@ -1,5 +1,13 @@
 # TripSplit 💸✈️
 
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=for-the-badge" />
+</p>
+
 **TripSplit** is a Flutter mobile application designed to help friends and groups manage shared trip expenses, track payments, and calculate who owes whom. The goal is to make splitting expenses simple, transparent, and organized.
 
 ## ✨ Features
